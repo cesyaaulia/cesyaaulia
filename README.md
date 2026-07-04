@@ -10,7 +10,7 @@ Passionate about building user-friendly digital products with modern web technol
 
 ---
 
-## 💫 About Me
+##  About Me
 
 🎓 Applied Bachelor's Student in **Informatics Management**
 at **State University of Surabaya (UNESA)**
@@ -54,7 +54,7 @@ at **State University of Surabaya (UNESA)**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🐄 Angonku.id
 
@@ -96,7 +96,7 @@ Unity • C#
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Flutter Development
 - Mobile App Architecture
